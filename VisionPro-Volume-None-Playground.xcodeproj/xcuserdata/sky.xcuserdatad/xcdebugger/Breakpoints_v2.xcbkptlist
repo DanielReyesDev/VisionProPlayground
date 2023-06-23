@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "5402E716-C0F7-4498-9275-E51D2D3A7A74"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "FA003001-C2AB-4115-9F12-B80627EB15ED"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VisionPro-Volume-None-Playground/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "FA003001-C2AB-4115-9F12-B80627EB15ED - 462aa37e98840fb6"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Swift.MainActor @Sendable (inout _RealityKit_SwiftUI.RealityViewContent) async -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.gesture&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.Gesture&gt;(_: &#x3c4;_1_0, including: SwiftUI.GestureMask) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.glassBackgroundEffect(displayMode: SwiftUI.GlassBackgroundDisplayMode) -&gt; some&gt;&gt;.0)&gt; in VisionPro_Volume_None_Playground.ContentView.body.getter : some"
+                  moduleName = "VisionPro-Volume-None-Playground"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sky/Developer/VisionPro-Volume-None-Playground/VisionPro-Volume-None-Playground/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "372">
+               </Location>
+               <Location
+                  uuid = "FA003001-C2AB-4115-9F12-B80627EB15ED - 3b6bd2262fa0edb7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for closure #1 @Swift.MainActor @Sendable (inout _RealityKit_SwiftUI.RealityViewContent) async -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.gesture&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.Gesture&gt;(_: &#x3c4;_1_0, including: SwiftUI.GestureMask) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.glassBackgroundEffect(displayMode: SwiftUI.GlassBackgroundDisplayMode) -&gt; some&gt;&gt;.0)&gt; in VisionPro_Volume_None_Playground.ContentView.body.getter : some"
+                  moduleName = "VisionPro-Volume-None-Playground"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sky/Developer/VisionPro-Volume-None-Playground/VisionPro-Volume-None-Playground/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "380">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7DA59596-FD23-4A76-BB1D-66227F0030CC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VisionPro-Volume-None-Playground/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "7DA59596-FD23-4A76-BB1D-66227F0030CC - 462aa37e98840fe8"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Swift.MainActor @Sendable (inout _RealityKit_SwiftUI.RealityViewContent) async -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.gesture&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.Gesture&gt;(_: &#x3c4;_1_0, including: SwiftUI.GestureMask) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.glassBackgroundEffect(displayMode: SwiftUI.GlassBackgroundDisplayMode) -&gt; some&gt;&gt;.0)&gt; in VisionPro_Volume_None_Playground.ContentView.body.getter : some"
+                  moduleName = "VisionPro-Volume-None-Playground"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sky/Developer/VisionPro-Volume-None-Playground/VisionPro-Volume-None-Playground/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "544">
+               </Location>
+               <Location
+                  uuid = "7DA59596-FD23-4A76-BB1D-66227F0030CC - 3b6bd2262fa0ede9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for closure #1 @Swift.MainActor @Sendable (inout _RealityKit_SwiftUI.RealityViewContent) async -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.gesture&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.Gesture&gt;(_: &#x3c4;_1_0, including: SwiftUI.GestureMask) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.glassBackgroundEffect(displayMode: SwiftUI.GlassBackgroundDisplayMode) -&gt; some&gt;&gt;.0)&gt; in VisionPro_Volume_None_Playground.ContentView.body.getter : some"
+                  moduleName = "VisionPro-Volume-None-Playground"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sky/Developer/VisionPro-Volume-None-Playground/VisionPro-Volume-None-Playground/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "552">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7A1290F1-8FAE-41B9-927C-F8A4A1DC4C71"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "VisionPro-Volume-None-Playground/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "21"
+            endingLineNumber = "21"
+            landmarkName = "body"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "7A1290F1-8FAE-41B9-927C-F8A4A1DC4C71 - 462aa37e98840f74"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(3) suspend resume partial function for closure #1 @Swift.MainActor @Sendable (inout _RealityKit_SwiftUI.RealityViewContent) async -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.gesture&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.Gesture&gt;(_: &#x3c4;_1_0, including: SwiftUI.GestureMask) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.glassBackgroundEffect(displayMode: SwiftUI.GlassBackgroundDisplayMode) -&gt; some&gt;&gt;.0)&gt; in VisionPro_Volume_None_Playground.ContentView.body.getter : some"
+                  moduleName = "VisionPro-Volume-None-Playground"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sky/Developer/VisionPro-Volume-None-Playground/VisionPro-Volume-None-Playground/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "228">
+               </Location>
+               <Location
+                  uuid = "7A1290F1-8FAE-41B9-927C-F8A4A1DC4C71 - 3b6bd2262fa0ed75"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "(4) suspend resume partial function for closure #1 @Swift.MainActor @Sendable (inout _RealityKit_SwiftUI.RealityViewContent) async -&gt; () in closure #1 () -&gt; SwiftUI.TupleView&lt;(&lt;&lt;opaque return type of SwiftUI.View.gesture&lt;&#x3c4;_0_0 where &#x3c4;_1_0: SwiftUI.Gesture&gt;(_: &#x3c4;_1_0, including: SwiftUI.GestureMask) -&gt; some&gt;&gt;.0, &lt;&lt;opaque return type of SwiftUI.View.glassBackgroundEffect(displayMode: SwiftUI.GlassBackgroundDisplayMode) -&gt; some&gt;&gt;.0)&gt; in VisionPro_Volume_None_Playground.ContentView.body.getter : some"
+                  moduleName = "VisionPro-Volume-None-Playground"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/sky/Developer/VisionPro-Volume-None-Playground/VisionPro-Volume-None-Playground/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "21"
+                  endingLineNumber = "21"
+                  offsetFromSymbolStart = "236">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>

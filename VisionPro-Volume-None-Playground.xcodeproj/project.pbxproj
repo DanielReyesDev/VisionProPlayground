@@ -12,6 +12,7 @@
 		33E9AA6E2A455112000D7248 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 33E9AA6D2A455112000D7248 /* ContentView.swift */; };
 		33E9AA702A455113000D7248 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 33E9AA6F2A455113000D7248 /* Assets.xcassets */; };
 		33E9AA732A455113000D7248 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 33E9AA722A455113000D7248 /* Preview Assets.xcassets */; };
+		33E9AA7B2A455160000D7248 /* HumanHeart.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 33E9AA7A2A455160000D7248 /* HumanHeart.usdz */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		33E9AA6F2A455113000D7248 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		33E9AA722A455113000D7248 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		33E9AA742A455113000D7248 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		33E9AA7A2A455160000D7248 /* HumanHeart.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = HumanHeart.usdz; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,6 +60,7 @@
 			children = (
 				33E9AA6B2A455112000D7248 /* VisionPro_Volume_None_PlaygroundApp.swift */,
 				33E9AA6D2A455112000D7248 /* ContentView.swift */,
+				33E9AA7A2A455160000D7248 /* HumanHeart.usdz */,
 				33E9AA6F2A455113000D7248 /* Assets.xcassets */,
 				33E9AA742A455113000D7248 /* Info.plist */,
 				33E9AA712A455113000D7248 /* Preview Content */,
@@ -142,6 +145,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				33E9AA7B2A455160000D7248 /* HumanHeart.usdz in Resources */,
 				33E9AA732A455113000D7248 /* Preview Assets.xcassets in Resources */,
 				33E9AA702A455113000D7248 /* Assets.xcassets in Resources */,
 			);

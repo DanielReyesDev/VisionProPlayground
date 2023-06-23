@@ -19,6 +19,16 @@ struct ContentView: View {
                 // Add the initial RealityKit content
                 if let scene = try? await Entity(named: "Scene", in: realityKitContentBundle) {
                     content.add(scene)
+                    
+                        // TODO: Check first the original scene
+//                    if let firstScene = content.entities.first {
+//                        let uniformScale: Float = 0.0001
+//                        firstScene.transform.scale = [
+//                            uniformScale,
+//                            uniformScale,
+//                            uniformScale
+//                        ]
+//                    }
                 }
             } update: { content in
                 // Update the RealityKit content when SwiftUI state changes
@@ -36,6 +46,25 @@ struct ContentView: View {
                     .toggleStyle(.button)
             }.padding().glassBackgroundEffect()
         }
+    }
+    
+    private func loadModel() -> Entity {
+        let path = Bundle.main.path(forResource: "HumanHeart", ofType: "usdz")!
+        let url = URL(fileURLWithPath: path)
+        let entity = try! Entity.load(contentsOf: url)
+        
+        
+        
+            // Entity
+//            let entity = scene.children[0] as! ModelEntity
+//            entity.model?.materials[0] = UnlitMaterial(color: .red)
+            
+//            let anchor = AnchorEntity(plane: .any)
+//            anchor.addChild(scene)
+            
+            
+            // arView.scene.anchors.append(anchor)
+        return entity
     }
 }
 
